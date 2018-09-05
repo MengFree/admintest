@@ -4,6 +4,7 @@
       alt="Vue logo"
       src="../assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <el-button>123456</el-button>
   </div>
 </template>
 

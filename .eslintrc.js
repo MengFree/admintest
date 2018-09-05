@@ -13,6 +13,11 @@ module.exports = {
   rules: {
     'no-console': 'off',
     'no-debugger': 'off',
+    'semi': 0,
+    'import/no-extraneous-dependencies': 0,
+    'no-underscore-dangle': 0,
+    'no-shadow': 0,
+    'no-param-reassign': 0,
   },
 
   parserOptions: {
